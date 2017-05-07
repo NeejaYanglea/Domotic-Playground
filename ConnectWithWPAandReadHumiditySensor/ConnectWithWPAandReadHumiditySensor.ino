@@ -4,8 +4,8 @@
 #include <stdio.h>
 #include <string.h>
 
-char* ssid = "Grog Esteso";     //  your network SSID (name)
-char* pass = "A043AE7C9C";  // your network password
+char* ssid = "**********";     //  your network SSID (name)
+char* pass = "**********";  // your network password
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 
 int idx = 2;
